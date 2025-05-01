@@ -1,5 +1,7 @@
-This project requires PHPMailer library.
-Download it from https://github.com/PHPMailer/PHPMailer and place it in the root directory.
-Edit register.php to set your SMTP Gmail credentials.
-Database name: db_login
-Table: users (see SQL file)
+Mata Kuliah Pilihan Software Quality
+Projek ini dibuat oleh :
+
+Chris Hendry Choong - 20221310011
+Laksamana Raihan Nusa Bagja – 202213100124
+Thomas Aldi Fiqri – 20221310042
+Raafi Syarahil Azhar - 20221310099
